@@ -1,0 +1,12 @@
+com.example.fluttershare.flutter_share-jetified-window-java-1.0.0-beta04-0 /Users/ashish.langhe/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.fluttershare.flutter_share-core-1.6.0-1 /Users/ashish.langhe/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.fluttershare.flutter_share-jetified-annotation-experimental-1.1.0-2 /Users/ashish.langhe/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.fluttershare.flutter_share-jetified-window-1.0.0-beta04-3 /Users/ashish.langhe/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.fluttershare.flutter_share-main-4 /Users/ashish.langhe/.pub-cache/hosted/pub.dev/flutter_share-2.0.0/android/src/main/res
+com.example.fluttershare.flutter_share-release-5 /Users/ashish.langhe/.pub-cache/hosted/pub.dev/flutter_share-2.0.0/android/src/release/res
+com.example.fluttershare.flutter_share-pngs-6 /Users/ashish.langhe/StudioProjects/self_workspace/FlutterApps/build/flutter_share/generated/res/pngs/release
+com.example.fluttershare.flutter_share-resValues-7 /Users/ashish.langhe/StudioProjects/self_workspace/FlutterApps/build/flutter_share/generated/res/resValues/release
+com.example.fluttershare.flutter_share-rs-8 /Users/ashish.langhe/StudioProjects/self_workspace/FlutterApps/build/flutter_share/generated/res/rs/release
+com.example.fluttershare.flutter_share-mergeReleaseResources-9 /Users/ashish.langhe/StudioProjects/self_workspace/FlutterApps/build/flutter_share/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.fluttershare.flutter_share-mergeReleaseResources-10 /Users/ashish.langhe/StudioProjects/self_workspace/FlutterApps/build/flutter_share/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.fluttershare.flutter_share-merged_res-11 /Users/ashish.langhe/StudioProjects/self_workspace/FlutterApps/build/flutter_share/intermediates/merged_res/release
