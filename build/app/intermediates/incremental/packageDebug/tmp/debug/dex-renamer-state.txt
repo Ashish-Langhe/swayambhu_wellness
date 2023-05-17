@@ -1,0 +1,4 @@
+#Thu May 04 23:11:26 IST 2023
+base.0=/Users/ashish.langhe/StudioProjects/self_workspace/swayambhu_wellness/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
